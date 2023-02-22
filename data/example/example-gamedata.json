@@ -1,0 +1,32 @@
+{
+    "data":[
+        {
+            "name":"name1", 
+            "value":10000
+        },
+        {
+            "name":"name2", 
+            "value":10000
+        },
+        {
+            "name":"name3", 
+            "value":10000
+        },
+        {
+            "name":"name4", 
+            "value":10000
+        },
+        {
+            "name":"name5", 
+            "value":10000
+        },
+        {
+            "name":"name6", 
+            "value":10000
+        },
+        {
+            "name":"name7", 
+            "value":10000
+        }
+    ]
+}

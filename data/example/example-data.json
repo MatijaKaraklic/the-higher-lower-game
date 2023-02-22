@@ -1,0 +1,24 @@
+{
+    "games":[
+        {
+            "name:": "game name",
+            "data": "gamename.json"
+        },
+        {
+            "name:": "game name",
+            "data": "gamename.json"
+        },
+        {
+            "name:": "game name",
+            "data": "gamename.json"
+        },
+        {
+            "name:": "game name",
+            "data": "gamename.json"
+        },
+        {
+            "name:": "game name",
+            "data": "gamename.json"
+        }
+    ]
+}
