@@ -1,7 +1,15 @@
 {
-    "data":{
+    "data": {
 
         "endpoint": "https://restcountries.com/v3.1/",
         "countries": "countries.json"
+    },
+    "games": {
+        "population": {
+        },
+        "area": {
+        },
+        "borders": {
+        }
     }
 }

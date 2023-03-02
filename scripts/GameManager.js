@@ -1,17 +1,11 @@
-import data from '../data/data.json';
-import countries from '../data/countries.json';
+const ENDPOINT = 'https://restcountries.com/v3.1/name/';
+const DATA_PATH = './data/data.json'
 
 
-
-
-
-console.log(data);
-
-
-
-
-
-
+getCountryData(DATA_PATH)
+.then(data => {
+    console.log(data);
+});
 
 
 
@@ -21,5 +15,4 @@ async function getCountryData(path){
     let response = await fetch(path);
     let data = await response.json();
     return data;
-
 }
