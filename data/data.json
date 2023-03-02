@@ -1,0 +1,7 @@
+{
+    "data":{
+
+        "endpoint": "https://restcountries.com/v3.1/",
+        "countries": "countries.json"
+    }
+}
